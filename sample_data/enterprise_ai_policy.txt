@@ -1,0 +1,1 @@
+Enterprise AI workflows must be traceable, reviewed, and auditable. Systems that generate code, reports, or business recommendations should preserve workflow state, document sources, model configuration, approval decisions, and final outputs. High-risk workflow steps should require human-in-the-loop approval before final delivery.
