@@ -290,21 +290,23 @@ curl -X POST http://localhost:8000/api/v1/workflows \
 
 ---
 
+## 📸 Screenshots
+
 ### Dashboard Overview
 
 <p align="center">
-  <img src="docs/screenshots/swagger-ui.png" width="95%"/>
-  <img src="docs/screenshots/api-authentication.png" width="95%"/>
-  <img src="docs/screenshots/knowledge-ingestion.png" width="95%"/>
-  <img src="docs/screenshots/prometheus-metrics.png" width="95%"/>
-  <img src="docs/screenshots/workflow-created.png" width="95%"/>
-  <img src="docs/screenshots/workflow-approved.png" width="95%"/>
+  <img src="docs/screenshots/swagger-ui.png" width="45%"/>
+  <img src="docs/screenshots/api-authentication.png" width="45%"/>
+  <img src="docs/screenshots/knowledge-ingestion.png" width="45%"/>
+  <img src="docs/screenshots/prometheus-metrics.png" width="45%"/>
+  <img src="docs/screenshots/workflow-created.png" width="45%"/>
+  <img src="docs/screenshots/workflow-approved.png" width="45%"/>
 </p>
 
-### Quadrant Dashboard
+### Qdrant Dashboard
 
 <p align="center">
-  <img src="docs/screenshots/qdrant-dashboard.png" width="95%"/>
+  <img src="docs/screenshots/qdrant-dashboard.png" width="45%"/>
 </p>
 
 ---
