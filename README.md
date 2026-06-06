@@ -75,6 +75,27 @@ This platform solves that by orchestrating specialized agents through a controll
 
 ---
 
+## 📸 Screenshots
+
+### Dashboard Overview
+
+<p align="center">
+  <img src="docs/screenshots/swagger-ui.png" width="45%"/>
+  <img src="docs/screenshots/api-authentication.png" width="45%"/>
+  <img src="docs/screenshots/knowledge-ingestion.png" width="45%"/>
+  <img src="docs/screenshots/prometheus-metrics.png" width="45%"/>
+  <img src="docs/screenshots/workflow-created.png" width="45%"/>
+  <img src="docs/screenshots/workflow-approved.png" width="45%"/>
+</p>
+
+### Qdrant Dashboard
+
+<p align="center">
+  <img src="docs/screenshots/qdrant-dashboard.png" width="45%"/>
+</p>
+
+---
+
 ## 🏗️ High-Level Architecture
 
 ```mermaid
@@ -287,27 +308,6 @@ curl -X POST http://localhost:8000/api/v1/workflows \
     "requires_human_approval": true
   }'
 ```
-
----
-
-## 📸 Screenshots
-
-### Dashboard Overview
-
-<p align="center">
-  <img src="docs/screenshots/swagger-ui.png" width="45%"/>
-  <img src="docs/screenshots/api-authentication.png" width="45%"/>
-  <img src="docs/screenshots/knowledge-ingestion.png" width="45%"/>
-  <img src="docs/screenshots/prometheus-metrics.png" width="45%"/>
-  <img src="docs/screenshots/workflow-created.png" width="45%"/>
-  <img src="docs/screenshots/workflow-approved.png" width="45%"/>
-</p>
-
-### Qdrant Dashboard
-
-<p align="center">
-  <img src="docs/screenshots/qdrant-dashboard.png" width="45%"/>
-</p>
 
 ---
 
